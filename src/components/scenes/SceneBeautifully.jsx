@@ -2,9 +2,9 @@ import { Box, Button, Typography } from '@mui/material'
 import PhotoSlot from '../PhotoSlot.jsx'
 
 const PHOTO_SLOTS = [
-  { key: 'beautifully-0', label: 'Her portrait', src: '/girl.jpeg', transform: 'rotate(-4deg)' },
-  { key: 'beautifully-1', label: 'His portrait', src: '/boy.jpeg', transform: 'translateY(12px) rotate(1deg)' },
-  { key: 'beautifully-2', label: 'Her portrait', src: '/girl.jpeg', transform: 'rotate(6deg)' },
+  { key: 'beautifully-0', label: 'Photo 1', src: '/pic.jpeg', transform: 'rotate(-4deg)' },
+  { key: 'beautifully-1', label: 'Photo 2', src: '/pic.jpeg', transform: 'translateY(12px) rotate(1deg)' },
+  { key: 'beautifully-2', label: 'Photo 3', src: '/pic.jpeg', transform: 'rotate(6deg)' },
 ]
 
 export default function SceneBeautifully({ data, onUpdatePhoto, onNext }) {

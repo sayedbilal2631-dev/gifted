@@ -24,7 +24,7 @@ export const FRAMES = [
 const initialData = {
   recipient: 'my love',
   sender: 'someone who loves you',
-  date: '08.08.2024',
+  date: '22/08/2008',
   wish: 'If I could love you for one more day, I would love you for one more day. If I could look at you one more time, I would look at you one more time. If you want me to be by your side for a lifetime, then first you have to show me that I will be by your side for a lifetime. I just want to thank you for always carrying all of my worries, even though me that I will be by your side for a lifetime. I wish for you to be like anyone your own life has not been easy at all, do not wish for you to be like anyone else. I only wish for you to be yourself, just as a better version of yourself. And finally, happy birthday to my love! I wish you lots of joy and happiness and gratitude on time, and I hope that someday I will be able to celebrate your birthday together with you. I LOVE YOU',
   letter: 'To the woman who has stolen my heart and made my world so much brighter. Happy birthday baby! There are no enough words to describe how much you mean to me.',
   photos: {},
